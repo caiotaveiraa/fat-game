@@ -34,7 +34,7 @@ O jogo conta com integração ao Firebase, permitindo salvar o nome dos jogadore
 3. Acumule pontos ao acertar os personagens fitness.
 4. Veja sua pontuação salva no ranking online!
 
-🔗 **[Jogue Agora](#)** (https://www.construct.net/en/free-online-games/gordinho-vs-fitness-74851/play)
+🔗 **[Jogue Agora](https://www.construct.net/en/free-online-games/gordinho-vs-fitness-74851/play)**
 
 ---
 
