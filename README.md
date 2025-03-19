@@ -1,51 +1,60 @@
-Godinho vs Fitness - Jogo desenvolvido no Construct 3
+# Godinho vs Fitness
 
-Descrição do Projeto
+Jogo desenvolvido no Construct 3
 
-Godinho vs Fitness é um jogo arcade desenvolvido no Construct 3 onde o jogador controla um personagem godinho com o objetivo de destruir personagens fitness (viciados em exercícios). Para isso, ele arremessa hambúrgueres e deve acertar o maior número possível de inimigos para acumular pontos.
+## ✨ Descrição do Projeto
 
-O jogo possui integração com o banco de dados Firebase, permitindo salvar o nome dos jogadores e suas respectivas pontuações para criar um ranking.
+**Godinho vs Fitness** é um jogo arcade desenvolvido no Construct 3. O jogador controla um personagem godinho com o objetivo de eliminar personagens fitness (viciados em exercícios) jogando hambúrgueres. Quanto mais inimigos acertar, maior será sua pontuação!
 
-Funcionalidades
+O jogo conta com integração ao Firebase, permitindo salvar o nome dos jogadores e suas pontuações para formar um ranking.
 
-Controle do personagem godinho
+---
 
-Arremesso de hambúrgueres para eliminar os inimigos
+## 🔧 Funcionalidades
 
-Sistema de pontuação salvo no Firebase
+- 💪 Controle do personagem godinho
+- 🍔 Arremesso de hambúrgueres para eliminar os inimigos
+- ✨ Sistema de pontuação salvo no Firebase
+- 🏆 Ranking com os melhores jogadores
+- 🎨 Design simples e divertido
 
-Ranking com os melhores jogadores
+---
 
-Design simples e divertido
+## 💻 Tecnologias Utilizadas
 
-Tecnologias Utilizadas
+- **Construct 3** - Motor principal do jogo
+- **Firebase** - Banco de dados para armazenar pontuações e rankings
 
-Construct 3 - Motor de jogo principal
+---
 
-Firebase - Banco de dados para armazenamento de pontuação
+## 📝 Como Jogar
 
-Como Jogar
+1. Acesse o jogo online pelo link abaixo.
+2. Controle o personagem e arremesse hambúrgueres nos inimigos.
+3. Acumule pontos ao acertar os personagens fitness.
+4. Veja sua pontuação salva no ranking online!
 
-Acesse o jogo online pelo link abaixo.
+🔗 **[Jogue Agora](#)** (https://www.construct.net/en/free-online-games/gordinho-vs-fitness-74851/play)
 
-Controle o personagem e arremesse hambúrgueres nos inimigos.
+---
 
-Acumule pontos ao acertar os personagens fitness.
+## 📚 Repositório no GitHub
 
-Veja sua pontuação salva no ranking online!
+Acesse os arquivos do jogo, incluindo o projeto `.cp3` e os sprites, no repositório abaixo:
 
-Acesse o Jogo Online
+👉 **[Godinho vs Fitness - GitHub](https://github.com/caiotaveiraa/fat-game)**
 
-Link para jogar (Substituir pelo link da aplicação online)
+---
 
-Repositório no GitHub
+## 📸 Prints da Aplicação
 
-Acesse os arquivos do jogo, incluindo o projeto .cp3 e os sprites, no repositório abaixo:
-Repositório no GitHub https://github.com/caiotaveiraa/fat-game
+(Adicionar imagens do jogo rodando)
 
-Prints da Aplicação
+(Adicionar imagem do Firebase armazenando dados)
 
- (Adicionar imagem do jogo rodando)
- (Adicionar imagem do Firebase armazenando dados)
+---
 
-Desenvolvido por [Caio Taveira]
+## 👨‍🎓 Desenvolvido por
+
+**Caio Taveira - 23947**
+
