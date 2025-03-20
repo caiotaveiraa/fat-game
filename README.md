@@ -1,10 +1,10 @@
-# Godinho vs Fitness
+# Gordinho vs Fitness
 
 Jogo desenvolvido no Construct 3
 
 ## ✨ Descrição do Projeto
 
-**Godinho vs Fitness** é um jogo arcade desenvolvido no Construct 3. O jogador controla um personagem godinho com o objetivo de eliminar personagens fitness (viciados em exercícios) jogando hambúrgueres. Quanto mais inimigos acertar, maior será sua pontuação!
+**Gordinho vs Fitness** é um jogo arcade desenvolvido no Construct 3. O jogador controla um personagem gordinho com o objetivo de eliminar personagens fitness (viciados em exercícios) jogando hambúrgueres. Quanto mais inimigos acertar, maior será sua pontuação!
 
 O jogo conta com integração ao Firebase, permitindo salvar o nome dos jogadores e suas pontuações para formar um ranking.
 
@@ -12,7 +12,7 @@ O jogo conta com integração ao Firebase, permitindo salvar o nome dos jogadore
 
 ## 🔧 Funcionalidades
 
-- 💪 Controle do personagem godinho
+- 💪 Controle do personagem gordinho
 - 🍔 Arremesso de hambúrgueres para eliminar os inimigos
 - ✨ Sistema de pontuação salvo no Firebase
 - 🏆 Ranking com os melhores jogadores
@@ -42,9 +42,21 @@ O jogo conta com integração ao Firebase, permitindo salvar o nome dos jogadore
 
 Acesse os arquivos do jogo, incluindo o projeto `.cp3` e os sprites, no repositório abaixo:
 
-👉 **[Godinho vs Fitness - GitHub](https://github.com/caiotaveiraa/fat-game)**
+👉 **[Gordinho vs Fitness - GitHub](https://github.com/caiotaveiraa/fat-game)**
 
 ---
+
+## 📸 Sprits da Aplicação
+
+![Personagem Jogável](imagens/homem_hamburger.webp)
+
+![Inimigo](imagens/bombado.webp)
+
+![Poder do personagem](imagens/hamburger.webp)
+
+![Fundo do jogo](imagens/madeira2.jpg)
+
+![Efeito de explosão ](imagens/explosao.png)
 
 ## 📸 Prints da Aplicação
 
