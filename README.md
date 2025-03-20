@@ -48,11 +48,11 @@ Acesse os arquivos do jogo, incluindo o projeto `.cp3` e os sprites, no reposit�
 
 ## 📸 Sprits da Aplicação
 
-![Personagem Jogável](imagens/homem_hambuger.webp)
+![Personagem Jogável](imagens/homem_hamburger.png)
 
-![Inimigo](imagens/bombado.webp)
+![Inimigo](imagens/bombado.png)
 
-![Poder do personagem](imagens/hamgurger.webp)
+![Poder do personagem](imagens/hamburger.png)
 
 ![Fundo do jogo](imagens/madera2.jpg)
 
