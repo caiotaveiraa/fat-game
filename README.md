@@ -52,7 +52,7 @@ Acesse os arquivos do jogo, incluindo o projeto `.cp3` e os sprites, no reposit√
 
 ![Inimigo](imagens/bombado.webp)
 
-![Poder do personagem](imagens/hamburger.webp)
+![Poder do personagem](imagens/hamgurger.webp)
 
 ![Fundo do jogo](imagens/madeira2.jpg)
 
