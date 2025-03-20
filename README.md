@@ -54,7 +54,7 @@ Acesse os arquivos do jogo, incluindo o projeto `.cp3` e os sprites, no reposit√
 
 ![Poder do personagem](imagens/hamgurger.webp)
 
-![Fundo do jogo](imagens/madeira2.jpg)
+![Fundo do jogo](imagens/madera2.jpg)
 
 ![Efeito de explos√£o ](imagens/explosao.png)
 
