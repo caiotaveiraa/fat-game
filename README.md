@@ -59,9 +59,13 @@ Acesse os arquivos do jogo, incluindo o projeto `.cp3` e os sprites, no reposit�
 
 ## 📸 Prints da Aplicação
 
-(Adicionar imagens do jogo rodando)
+| Jogo em Execução | Ranking do Jogo |
+|--------------------|--------------------|
+| ![Jogo](imagens/game.png) | ![Ranking](imagens/gameOver.png) |
 
-(Adicionar imagem do Firebase armazenando dados)
+| Firebase |
+|--------------------|
+| ![Firebase](imagens/database.png) |
 
 ---
 
