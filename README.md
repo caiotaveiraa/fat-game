@@ -54,7 +54,7 @@ Acesse os arquivos do jogo, incluindo o projeto `.cp3` e os sprites, no reposit�
 
 | Poder do personagem | Fundo do jogo | Efeito de explosão |
 |--------------------|--------------|----------------|
-| ![Poder](imagens/hamburger.png) | ![Fundo](imagens/piso.jpg) | ![Explosão](imagens/explosao.png) |
+| ![Poder](imagens/hamburger.png) | ![Fundo](imagens/piso.jpg) | ![Explosão](imagens/explosao-verde.png) |
 
 
 ## 📸 Prints da Aplicação
