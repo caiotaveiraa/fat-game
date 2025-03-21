@@ -65,7 +65,7 @@ Acesse os arquivos do jogo, incluindo o projeto `.cp3` e os sprites, no reposit√
 
 | Firebase |
 |--------------------|
-| ![Firebase](imagens/database.png) |
+| ![Firebase](imagens/firebase.png) |
 
 ---
 
