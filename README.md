@@ -46,17 +46,16 @@ Acesse os arquivos do jogo, incluindo o projeto `.cp3` e os sprites, no reposit�
 
 ---
 
-## 📸 Sprits da Aplicação
+## 📸 Sprites da Aplicação
 
-![Personagem Jogável](imagens/homem_hambuger.png)
+| Personagem Jogável | Inimigo |
+|--------------------|---------|
+| ![Personagem Jogável](imagens/homem_hamburger.png) | ![Inimigo](imagens/bombado.png) |
 
-![Inimigo](imagens/bombado.png)
+| Poder do personagem | Fundo do jogo | Efeito de explosão |
+|--------------------|--------------|----------------|
+| ![Poder](imagens/hamburger.png) | ![Fundo](imagens/piso.jpg) | ![Explosão](imagens/explosao.png) |
 
-![Poder do personagem](imagens/hamgurger.png)
-
-![Fundo do jogo](imagens/madera2.jpg)
-
-![Efeito de explosão ](imagens/explosao.png)
 
 ## 📸 Prints da Aplicação
 
